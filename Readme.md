@@ -1,3 +1,3 @@
 # This is my first repository
 
-laksfjlkasdfdl lk
+This is a update from a friend
